@@ -46,7 +46,8 @@ A set of community maintained documents made up of guides and wiki-style documen
 |   |-- getting-started.md
 |   |-- integrations.md
 |   |-- overview.md
-|   `-- running-a-node.md
+|   |-- running-a-node.md
+|   `-- glossary.md
 |-- getting-started-users
 |   |-- storing
 |   |   |-- basics.md
